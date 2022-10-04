@@ -1,0 +1,26 @@
+{
+    "name": "mereniTeploty18b20Radiem",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "pxt-18b20-v2only": "github:lionyhw/pxt-18b20-v2only#2964dcefcaf51009f0e60ab5c8914b3beccbc771"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "5.0.12",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
